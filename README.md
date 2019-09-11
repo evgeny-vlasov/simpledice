@@ -10,7 +10,7 @@ The goal of simpledice is to get a random number or letter from a given range
 Installation
 ------------
 
-\`\`\`
+
 
 from [GitHub](https://github.com/) with:
 
